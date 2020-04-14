@@ -1,3 +1,8 @@
+This mirror is NOT automatically updated and may become a fork!
+
+---------
+
+
 LZ4 - Extremely fast compression
 ================================
 
